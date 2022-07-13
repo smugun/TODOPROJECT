@@ -1,0 +1,98 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="16">
+            <item index="0" class="java.lang.String" itemvalue="," />
+            <item index="1" class="java.lang.String" itemvalue="date" />
+            <item index="2" class="java.lang.String" itemvalue="button" />
+            <item index="3" class="java.lang.String" itemvalue="ui" />
+            <item index="4" class="java.lang.String" itemvalue="primary" />
+            <item index="5" class="java.lang.String" itemvalue="admin" />
+            <item index="6" class="java.lang.String" itemvalue="z" />
+            <item index="7" class="java.lang.String" itemvalue="en-us" />
+            <item index="8" class="java.lang.String" itemvalue="emailhelp" />
+            <item index="9" class="java.lang.String" itemvalue="integrity" />
+            <item index="10" class="java.lang.String" itemvalue="src" />
+            <item index="11" class="java.lang.String" itemvalue="crossorigin" />
+            <item index="12" class="java.lang.String" itemvalue="background-color" />
+            <item index="13" class="java.lang.String" itemvalue="info" />
+            <item index="14" class="java.lang.String" itemvalue="table-striped" />
+            <item index="15" class="java.lang.String" itemvalue="background-color:" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="28">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="h1contact" />
+            <item index="7" class="java.lang.String" itemvalue="img" />
+            <item index="8" class="java.lang.String" itemvalue="left" />
+            <item index="9" class="java.lang.String" itemvalue="class" />
+            <item index="10" class="java.lang.String" itemvalue="container" />
+            <item index="11" class="java.lang.String" itemvalue="div" />
+            <item index="12" class="java.lang.String" itemvalue="label" />
+            <item index="13" class="java.lang.String" itemvalue="button" />
+            <item index="14" class="java.lang.String" itemvalue="form" />
+            <item index="15" class="java.lang.String" itemvalue="input" />
+            <item index="16" class="java.lang.String" itemvalue="body" />
+            <item index="17" class="java.lang.String" itemvalue="textarea" />
+            <item index="18" class="java.lang.String" itemvalue="strong" />
+            <item index="19" class="java.lang.String" itemvalue="span" />
+            <item index="20" class="java.lang.String" itemvalue="tbody" />
+            <item index="21" class="java.lang.String" itemvalue="tr" />
+            <item index="22" class="java.lang.String" itemvalue="td" />
+            <item index="23" class="java.lang.String" itemvalue="th" />
+            <item index="24" class="java.lang.String" itemvalue="thead" />
+            <item index="25" class="java.lang.String" itemvalue="table" />
+            <item index="26" class="java.lang.String" itemvalue="h2" />
+            <item index="27" class="java.lang.String" itemvalue="style" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+          <option value="N801" />
+          <option value="N806" />
+          <option value="N803" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="main.coder" />
+          <option value="range.__truediv__" />
+          <option value="main.*" />
+          <option value="list.apppend" />
+          <option value="Website.Website.urls.*" />
+          <option value="int.count" />
+          <option value="set.__truediv__" />
+          <option value="int.append" />
+          <option value="str.__or__" />
+          <option value="django.db.models.fields.CharField.__add__" />
+          <option value="list.order_by" />
+          <option value="crux.qrux.views.base.html" />
+          <option value="crux.qrux.views.project.html" />
+          <option value="django.contrib.views.home" />
+          <option value="task.objects.get" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
